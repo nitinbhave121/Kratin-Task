@@ -1,4 +1,3 @@
-# Kratin-Task
 
 # Automated alarm system for Overloaded Diaper and pads
 
